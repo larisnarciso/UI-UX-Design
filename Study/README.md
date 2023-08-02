@@ -1,5 +1,7 @@
 # Study
 
+<img align='right' width="400" src="/Study/study.png">
+
 ## Projeto realizado no período 2022/1 na disciplina de Informática na Educação no curso de Sistemas de Informação da Universidade Federal de Lavras.
 
 ### Com a pandemia e o ensino remoto, trouxe à tona alguns problemas, entre eles está a forma de como passar o ensino a distância. As escolas optaram por utilizar ferramentas que já existiam mas que a maioria dessas ferramentas tinha uma coisa em comum, a **internet**.
