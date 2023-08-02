@@ -1,6 +1,6 @@
 # Listbuy
 
-<img align='right' width="400" src="/Listbuy/listbuy.png">
+<img align='right' width="400" src="/ListBuy/listbuy.png">
 
 ## Projeto realizado no periodo 2021/2 na disciplina de Interação Humano-Computador no curso de Sistemas de Informação da Universidade Federal de Lavras.
 
